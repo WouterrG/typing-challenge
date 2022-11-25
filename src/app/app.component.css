@@ -1,0 +1,11 @@
+.correct {
+    background-color: green;
+    color: white;
+    font-weight: 600;
+}
+
+.incorrect {
+    background-color: red;
+    color: white;
+    font-weight: 600;
+}
